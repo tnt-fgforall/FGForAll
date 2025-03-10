@@ -17,3 +17,6 @@ The steps you need to do:
 you can also insert the game directory that includes the nvidia dll files. (Drag and drop any file from the relevant directory)
 5. Install will create a backup of the dll file that is to be replaced inside a `bak` folder, as you remove the mod,
 the backup files will be restored to the original game folder and all the mod files will be deleted.
+6. **Beware**: I am not an expert on which games require which folder to be modded, so feel free to just use your own instincts and
+use drag & drop feature instead. (Otherwise, it needs to be hardcoded for each game that behaves differently.)
+
