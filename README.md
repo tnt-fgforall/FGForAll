@@ -1,9 +1,11 @@
 # FGForAll
-This project is made for easy install/removal of dlssg-to-fsr3 by Nukem9. I am not taking any credit for the `dlssg-to-fsr3`
+This project is just a UI made for easy installation/removal of dlssg-to-fsr3 by Nukem9. I am not taking any credit for the `dlssg-to-fsr3`
 project in any way. This project is only developed overnight for my own benefit to easily install/remove the mod to any games I own.
 I have RTX 3090 myself and am frustrated as anyone else.
 Do not judge the codebase too much as it was mostly
 developed using AI. I had to fix bugs/edge cases to make it work.
+The project was built using Vanilla Kotlin/Java and does not even have Maven/Gradle. 
+It only requires [GSON](https://mvnrepository.com/artifact/com.google.code.gson/gson) library to be built.
 
 Enjoy! Feel free to not buy me coffee as you can enjoy the coffee yourself! Use the code as you like but don't take credit!
 
